@@ -1,0 +1,41 @@
+Software engineering is the process of applying technical principles to the design and development of software.
+
+Unlike traditional programming, software engineering is structured and systematic, and it often involves a team of experts.
+
+Software Development Life Cycle (SDLC) involves thedifferent phases of software development. The various phases of the Software Development Life Cycle include:
+Requirements Analysis: In this phase, stakeholders' needs are gathered, analyzed, and documented to define the system's functionality and constraints.
+Design: During this phase, the system's architecture and components are planned and documented, outlining how the software will fulfill the specified requirements.
+Implementation: Here, the actual coding and development of the software occur, transforming the design into executable code.
+Testing: In this phase, the software is systematically evaluated to identify defects, verify its functionality against requirements, and ensure its quality.
+Deployment: The software is deployed to the production environment, making it accessible to end-users.
+Maintenance: Finally, the software is maintained and updated as necessary to address defects, enhance functionality, and adapt to changing requirements or environments.
+
+While the agile model focuses on collaboration between self-organizing, cross-functional teams, the waterfall model focuses on a downward flow of progress through the various phases of the Software Development Life Cycle. The waterfall model is suitable for projects with well-defined requirements and a stable scope where changes are unlikely to occur once the project begins, while the agile model is suitable for projects where requirements are expected to change frequently, and there's a need for flexibility and rapid adaptation to evolving needs and priorities.
+
+Requirements engineering is the process of eliciting, analyzing, documenting, and managing the requirements of a software system. It involves understanding stakeholders' needs, translating them into precise and unambiguous specifications, and ensuring that the final product meets those requirements, thus laying the foundation for successful software development and ensuring alignment between the software solution and the stakeholders' expectations.
+
+Modularity in software design involves breaking down a software system into smaller, manageable, and independent components, with each component being responsible for a specific set of functions or features. It allows for easier development, maintenance, and scalability of the software system by promoting code reuse, encapsulation of functionality, and reducing dependencies between modules.
+
+Unit Testing: Unit testing involves testing individual units or components of the software in isolation to ensure that they function correctly according to their specifications. It typically involves writing and executing test cases for each unit, focusing on verifying its behavior and functionality.
+
+Integration Testing: Integration testing verifies that individual units or components of the software work together as expected when integrated into larger subsystems or the complete system. It focuses on testing interactions between modules to uncover any integration issues, such as communication errors, data flow problems, or interface mismatches.
+
+System Testing: System testing evaluates the entire software system as a whole to ensure that it meets specified requirements and functions correctly in its intended environment. It involves testing the system's behavior and performance under various conditions, such as different input data, user interactions, and system configurations.
+
+Acceptance Testing: Acceptance testing determines whether the software meets the acceptance criteria and satisfies the requirements specified by stakeholders, including end-users, customers, or business owners. It typically involves testing the software in a real or simulated environment to validate its functionality, usability, and compliance with user expectations.
+
+Testing helps identify defects, bugs, and issues in the software, ensuring that it meets quality standards and performs reliably. It also helps mitigate risks associated with software failures, such as financial losses, damage to reputation, or safety hazards. It helps in verifying that the software meets its specified requirements and validates its functionality, ensuring that it behaves as intended and meets user expectations. It also provides feedback to developers, allowing them to identify areas for improvement, optimize performance, and enhance the user experience.
+
+Version control systems (VCS) are tools used to track and manage changes to source code and other files in a software project. They enable developers to collaborate effectively, manage code changes, track revisions, and maintain a history of modifications. Example include git.
+
+Project managers oversee all aspects of the project, including scope, schedule, budget, resources, and quality, to ensure that the project meets its objectives and stakeholders' expectations. Some challenges faced by project managers inlude limited resoures and risk management
+
+Software maintenance refers to the process of modifying, updating, and enhancing software to ensure continued usability and relevance of the software system over time. It helps to ensure long-term viability, improve quality and stability, enhances user satisfaction, etc.
+
+Ethical issues that software engineers might face include:
+Privacy and data protection concerns, bias and fairness in algorithmic decision-making, transparency and accountability in the development and deployment of software.
+To adhere to ethical standards, software engineers should stay informed about ethical principles and guidelines relevant to their work, such as codes of conduct, industry standards, and legal regulations. They should also regularly assess the ethical implications of their decisions and actions, and engage in continuous education and training to enhance their ethical awareness.
+
+
+Answer Sources:
+ChatGPT and Class notes.
